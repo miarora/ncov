@@ -1,5 +1,5 @@
 ---
-title: Análise genômica da dispersão da COVID-19. Relatório da situação em 27/03/2020.
+title: Análise genômica da dispersão da COVID-19. Relatório da situação em 27-03-2020.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -20,7 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Tiago Neto
+  - Erica Barroso
 translatorLinks:
+  - https://github.com/TNNeto
+  - https://www.systbot.uzh.ch/de/Personen/DoktorandInnen/ericabarroso.html
 date: "27 de Março de 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
 abstract: “Este relatório utiliza dados genômicos partilhados publicamente para rastrear a dispersão da COVID-19. Estes relatórios são atualizados semanalmente.”
@@ -51,10 +55,10 @@ abstract: “Este relatório utiliza dados genômicos partilhados publicamente p
 Analisamos 1.495 genomas do vírus causador da COVID-19 publicamente disponíveis. Ao compararmos estes genomas entre si, podemos caracterizar de que forma a doença COVID-19 se espalha pelo mundo e localmente. No relatório desta semana, informamos o seguinte:
 
 **Europa**  
-* Continuamos a observar uma forte mistura de amostras pela Europa, sugerindo que o vírus continuou a espalhar-se através das fronteiras nas últimas 3-5 semanas. Uma vez que as medidas de mitigação precisam de tempo para surtirem efeito, poderemos observar um maior agrupamento de casos por país.
+* Continuamos a observar uma forte mistura de amostras pela Europa, sugerindo que o vírus continuou a espalhar-se através das fronteiras nas últimas 3-5 semanas. Uma vez que as medidas de mitigação têm tempo para surtirem efeito, poderemos observar um maior agrupamento de casos por país.
 
 **América do Norte**   
-* Os padrões de transmissão são complexos nos Estados Unidos: as amostras recolhidas de extremos diferentes do país ainda demonstram uma relação próxima entre si.
+* Os padrões de transmissão são complexos nos Estados Unidos: amostras recolhidas de extremos diferentes do país ainda demonstram uma relação próxima entre si.
 * O estado de Washington teve pelo menos duas introduções independentes (a primeira provavelmente da China, a segunda provavelmente da Europa), das quais resultaram duas cadeias de transmissão diferentes.
 * Existem evidências de provável transmissão local em diversos estados, mais evidente na Califórnia.
 
@@ -62,14 +66,14 @@ Analisamos 1.495 genomas do vírus causador da COVID-19 publicamente disponívei
 * Recebemos novas sequências da América do Sul esta semana, mas a amostragem permanece escassa. Pode existir uma maior atividade da COVID nesta região do que a capturada pelos dados disponíveis, mas não o podemos afirmar com certeza.
 
 **Ásia**  
-* Encontramos evidências de exportação recente da COVID-19 a partir do Irão.
+* Encontramos evidências de exportação recente da COVID-19 a partir do Irã.
 
 **África**  
 * A filogenia sugere provável transmissão local em Kinshasa, República Democrática do Congo, ao longo dos últimos 11 dias ou mais.
 * Recebemos novas sequências oriundas de África esta semana, mas a amostragem permanece escassa; pode existir muito mais atividade da COVID nesta região do que a capturada pelos dados disponíveis.
 
 **Oceânia**
-* Existem evidências de transmissão local em New South Wales, Austrália nos dados genéticos.
+* Os dados genéticos apresentam evidência de transmissão local em New South Wales, Austrália.
 ```
 
 
@@ -103,7 +107,7 @@ Caso não esteja familiarizado(a) com árvores filogenéticas, encorajamos que c
 
 [Cobertura do NY Times sobre a COVID-19](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Nosso mundo em dados](https://ourworldindata.org/coronavirus).
 
 [Pergunte a um cientista & Perguntas frequentes](https://covid19.fas.org/l/en).
 
